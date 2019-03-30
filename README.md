@@ -1,5 +1,6 @@
 # project
-		'Dummy is used to launch Umniah app on real device 
+		'Test.Java as 2 sections
+		 Dummy code is used to launch Umniah app on real device 
 		 Installed app via adb install app-debug-with_tutorial.apk 
 		 connect app via wifi using below command
 		 adb tcpip 5555
